@@ -1,0 +1,86 @@
+body {
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+    color: #373a3c;
+    font-family: "Cabin", sans-serif;
+}
+
+nav {
+    background-color: #373a3c;
+}
+
+div.collapse.navbar-collapse {
+    background-color: #373a3c;
+}
+
+.navbar-brand {
+    font-family: "Lobster", cursive;
+    color: #fff;
+    font-size: 37px;
+}
+
+.nav-link {
+    font-size: 16px;
+    font-weight: 400;
+}
+
+h1 {
+    font-size: 40pt;
+}
+
+.btn-outline-secondary {
+    border-color: #ddd;
+}
+
+p.quantity {
+    font-size: 20pt;
+}
+
+.carousel-indicators {
+    top: 170px;
+}
+
+.carousel-indicators [data-bs-target] {
+    width: 8px;
+    height: auto;
+    object-fit: cover;
+    border-radius: 50%;
+    background: #000;
+}
+
+.recipe ul li,
+.recipe ol li {
+    font-size: 20px;
+    font-weight: 400;
+    letter-spacing: 0.6pt;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+.card-text {
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.newsletter {
+    background-color: #dc3545;
+}
+
+#newsletter h2 {
+    font-size: 40px;
+}
+
+#newsletter p {
+    font-size: 30px;
+}
+
+#newsletter button {
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: initial !important;
+}
